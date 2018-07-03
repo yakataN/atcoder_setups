@@ -19,5 +19,9 @@ sample2.txt
 sample3.txt
 が入っています。main.rbが提出ファイル、sample.txt群が標準入力を保存するフォルダです。
 
+
+- AtcorderExecution.bat
+main.rbを出力するためのbat. sample1~sample3を入力して出力を返してくれる。
+
 関連ブログ
 https://yakata.hatenablog.com/entry/2018/06/19/183657
